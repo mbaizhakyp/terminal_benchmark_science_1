@@ -1,0 +1,428 @@
+{
+ "lid": "ELBA1",
+ "usgsId": "02364000",
+ "reachId": "2213454",
+ "name": "Pea River at Elba (US 84)",
+ "description": "",
+ "rfc": {
+  "abbreviation": "SERFC",
+  "name": "Southeast River Forecast Center"
+ },
+ "wfo": {
+  "abbreviation": "TAE",
+  "name": "Tallahassee"
+ },
+ "state": {
+  "abbreviation": "AL",
+  "name": "Alabama"
+ },
+ "county": "Coffee",
+ "timeZone": "CST6CDT",
+ "latitude": 31.413333333333,
+ "longitude": -86.063055555556,
+ "pedts": {
+  "observed": "HGIRG",
+  "forecast": "HGIFF"
+ },
+ "flood": {
+  "stageUnits": "ft",
+  "flowUnits": "cfs",
+  "categories": {
+   "major": {
+    "stage": 46,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": 32,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": 30,
+    "flow": -9999
+   },
+   "action": {
+    "stage": 25,
+    "flow": -9999
+   }
+  },
+  "crests": {
+   "historic": [
+    {
+     "occurredTime": "1929-03-15T00:00:00Z",
+     "stage": 43.5,
+     "flow": 68000,
+     "preliminary": "R",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1990-03-17T00:00:00Z",
+     "stage": 43.28,
+     "flow": 56600,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2015-12-26T13:00:00Z",
+     "stage": 41.42,
+     "flow": 51501,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1998-03-08T00:00:00Z",
+     "stage": 39.23,
+     "flow": 41500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1994-07-07T00:00:00Z",
+     "stage": 38.33,
+     "flow": 40000,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1975-02-19T00:00:00Z",
+     "stage": 37.26,
+     "flow": 38200,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1938-03-17T00:00:00Z",
+     "stage": 35,
+     "flow": 34500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-12-15T00:00:00Z",
+     "stage": 33.73,
+     "flow": 31900,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-09-18T01:00:00Z",
+     "stage": 31.64,
+     "flow": 27500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1960-04-05T00:00:00Z",
+     "stage": 31.45,
+     "flow": 27500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1937-04-06T00:00:00Z",
+     "stage": 30,
+     "flow": 25000,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1936-01-21T00:00:00Z",
+     "stage": 29.55,
+     "flow": 24300,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1978-01-26T00:00:00Z",
+     "stage": 28.6,
+     "flow": 22900,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2016-01-01T01:00:00Z",
+     "stage": 28.4,
+     "flow": 22500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1973-03-12T00:00:00Z",
+     "stage": 27,
+     "flow": 20700,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1943-01-19T00:00:00Z",
+     "stage": 26.8,
+     "flow": 20400,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1956-09-25T00:00:00Z",
+     "stage": 26,
+     "flow": 19000,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1944-03-24T00:00:00Z",
+     "stage": 25.8,
+     "flow": 19000,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1971-03-27T00:00:00Z",
+     "stage": 25.65,
+     "flow": 18500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2014-04-08T00:00:00Z",
+     "stage": 25.58,
+     "flow": 18700,
+     "preliminary": "O",
+     "olddatum": false
+    }
+   ],
+   "recent": [
+    {
+     "occurredTime": "2020-09-18T01:00:00Z",
+     "stage": 31.64,
+     "flow": 27500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2016-01-01T01:00:00Z",
+     "stage": 28.4,
+     "flow": 22500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2015-12-26T13:00:00Z",
+     "stage": 41.42,
+     "flow": 51501,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2014-04-08T00:00:00Z",
+     "stage": 25.58,
+     "flow": 18700,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-12-15T00:00:00Z",
+     "stage": 33.73,
+     "flow": 31900,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1998-03-08T00:00:00Z",
+     "stage": 39.23,
+     "flow": 41500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1994-07-07T00:00:00Z",
+     "stage": 38.33,
+     "flow": 40000,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1990-03-17T00:00:00Z",
+     "stage": 43.28,
+     "flow": 56600,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1978-01-26T00:00:00Z",
+     "stage": 28.6,
+     "flow": 22900,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1975-02-19T00:00:00Z",
+     "stage": 37.26,
+     "flow": 38200,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1973-03-12T00:00:00Z",
+     "stage": 27,
+     "flow": 20700,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1971-03-27T00:00:00Z",
+     "stage": 25.65,
+     "flow": 18500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1960-04-05T00:00:00Z",
+     "stage": 31.45,
+     "flow": 27500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1956-09-25T00:00:00Z",
+     "stage": 26,
+     "flow": 19000,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1944-03-24T00:00:00Z",
+     "stage": 25.8,
+     "flow": 19000,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1943-01-19T00:00:00Z",
+     "stage": 26.8,
+     "flow": 20400,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1938-03-17T00:00:00Z",
+     "stage": 35,
+     "flow": 34500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1937-04-06T00:00:00Z",
+     "stage": 30,
+     "flow": 25000,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1936-01-21T00:00:00Z",
+     "stage": 29.55,
+     "flow": 24300,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1929-03-15T00:00:00Z",
+     "stage": 43.5,
+     "flow": 68000,
+     "preliminary": "R",
+     "olddatum": false
+    }
+   ]
+  },
+  "lowWaters": {
+   "historic": []
+  },
+  "impacts": [
+   {
+    "stage": 46,
+    "statement": "A major flood is expected to top the levee and innundate Elba and the reaches of the Pea River near Elba."
+   },
+   {
+    "stage": 44,
+    "statement": "Flood waters are expected to reach the lowest point of the levee protecting downtown elba at highway 84, with the threat of flooding affecting the downtown area of elba. Many homes outside the levee will be subject to substantial flooding."
+   },
+   {
+    "stage": 41,
+    "statement": "Water is expected to cover a large portion of state highway 87 north of Elba. The Seaboard Coast Railroad bridge in Elba will become submerged."
+   },
+   {
+    "stage": 35,
+    "statement": "Flooding on the Pea River will affect low lying houses and streets east of highway 189 south near Elba."
+   },
+   {
+    "stage": 32,
+    "statement": "Moderate flooding on the Pea River will affect homes outside the levee near Elba and will extend to Smith Avenue, otherwise known as State Highway 125."
+   },
+   {
+    "stage": 30,
+    "statement": "Minor flooding will affect farmland along the Pea River near Elba."
+   },
+   {
+    "stage": 28,
+    "statement": "Water will extend to the city swimming pool in Elba on the east bank of the Pea River, near the highway 84 bridge."
+   }
+  ]
+ },
+ "dataAttribution": [
+  {
+   "abbrev": "USGS",
+   "text": "02364000",
+   "title": "Observations courtesy of U.S. Geological Survey",
+   "url": "https://waterdata.usgs.gov/nwis/inventory/?site_no=02364000"
+  }
+ ],
+ "impactsLowWaters": [],
+ "normalThreshold": null,
+ "hydronotes": [
+  {
+   "statement": "River forecasts for this location take into account past precipitation and the precipitation amounts expected approximately 48 hours into the future from the forecast issuance time.",
+   "effective": "0101",
+   "expiration": "1231"
+  }
+ ],
+ "datums": {
+  "vertical": {
+   "value": [
+    {
+     "label": "North American Vertical Datum of 1988",
+     "abbrev": "NAVD88",
+     "description": "A fixed reference for elevations determined by geodetic leveling. The datum was derived from a general adjustment of the first-order terrestrial leveling nets of the United States, Canada, and Mexico. In the adjustment, only the height of the primary tidal bench mark, referenced to the International Great Lakes Datum of 1985 (IGLD 85) local mean sea level height value, at Father Point, Rimouski, Quebec, Canada was held fixed, thus providing minimum constraint. NAVD 88 and IGLD 85 are identical. However, NAVD 88 bench mark values are given in Helmert orthometric height units while IGLD 85 values are in dynamic heights. See International Great Lakes Datum of 1985, National Geodetic Vertical Datum of 1929, and geopotential difference. NAVD 88 should not be used as Mean Sea Level.",
+     "value": 159.15
+    },
+    {
+     "label": "Station Datum",
+     "abbrev": "STND",
+     "description": "A fixed base elevation at a tide station to which all water level measurements are referred. The datum is unique to each station and is established at a lower elevation than the water is ever expected to reach. It is referenced to the primary bench mark at the station and is held constant regardless of changes to the water level gauge or tide staff. The datum of tabulation is most often at the zero of the first tide staff installed.",
+     "value": 0
+    }
+   ]
+  },
+  "horizontal": {
+   "value": []
+  },
+  "notes": {
+   "value": []
+  }
+ },
+ "inundation": {
+  "enabled": false,
+  "url": "",
+  "zeroDatum": null,
+  "downloads": null,
+  "siteSpecificInfo": "",
+  "dataAttribution": []
+ },
+ "upstreamLid": "FOLA1",
+ "downstreamLid": "SSNA1",
+ "inService": {
+  "enabled": true,
+  "message": ""
+ },
+ "lowThreshold": {
+  "units": "ft",
+  "value": 2
+ },
+ "forecastReliability": "Forecasts are issued routinely year-round."
+}

@@ -1,0 +1,1334 @@
+{
+ "lid": "BSBA1",
+ "usgsId": "03575100",
+ "reachId": "19621328",
+ "name": "Flint River (AL) at Brownsboro",
+ "description": "",
+ "rfc": {
+  "abbreviation": "LMRFC",
+  "name": "Lower Mississippi River Forecast Center"
+ },
+ "wfo": {
+  "abbreviation": "HUN",
+  "name": "Huntsville"
+ },
+ "state": {
+  "abbreviation": "AL",
+  "name": "Alabama"
+ },
+ "county": "Madison",
+ "timeZone": "CST6CDT",
+ "latitude": 34.749166666667,
+ "longitude": -86.446666666667,
+ "pedts": {
+  "observed": "HGIRG",
+  "forecast": "HGIFF"
+ },
+ "flood": {
+  "stageUnits": "ft",
+  "flowUnits": "cfs",
+  "categories": {
+   "major": {
+    "stage": 22,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": 19,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": 17,
+    "flow": -9999
+   },
+   "action": {
+    "stage": 15,
+    "flow": -9999
+   }
+  },
+  "crests": {
+   "historic": [
+    {
+     "occurredTime": "2011-04-28T14:30:00Z",
+     "stage": 24.58,
+     "flow": 48130,
+     "preliminary": "R",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2004-02-06T17:00:00Z",
+     "stage": 23.03,
+     "flow": 36400,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2015-12-26T11:30:00Z",
+     "stage": 22.99,
+     "flow": 36133,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2026-06-08T08:45:00Z",
+     "stage": 22.68,
+     "flow": 33723,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2021-09-20T14:15:00Z",
+     "stage": 22.67,
+     "flow": 33989,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2004-12-07T15:30:00Z",
+     "stage": 22.59,
+     "flow": 32900,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-02-06T22:45:00Z",
+     "stage": 22.16,
+     "flow": 30572,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-24T08:00:00Z",
+     "stage": 22.12,
+     "flow": 30304,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2003-05-07T03:00:00Z",
+     "stage": 22.1,
+     "flow": 33500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2022-02-23T23:45:00Z",
+     "stage": 21.24,
+     "flow": 25168,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2008-12-11T02:30:00Z",
+     "stage": 20.91,
+     "flow": 23368,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2004-12-10T05:30:00Z",
+     "stage": 20.85,
+     "flow": 19975,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-12-10T00:30:00Z",
+     "stage": 20.83,
+     "flow": 22984,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2018-03-01T13:30:00Z",
+     "stage": 20.72,
+     "flow": 22456,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1999-01-23T00:00:00Z",
+     "stage": 20.61,
+     "flow": 26300,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-20T21:45:00Z",
+     "stage": 20.57,
+     "flow": 21736,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2000-04-04T00:00:00Z",
+     "stage": 20.42,
+     "flow": 23900,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-12-01T20:15:00Z",
+     "stage": 20.26,
+     "flow": 20248,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-04-13T16:15:00Z",
+     "stage": 20.21,
+     "flow": 20008,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2004-03-07T00:00:00Z",
+     "stage": 20.2,
+     "flow": 17700,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2022-03-23T21:45:00Z",
+     "stage": 20.04,
+     "flow": 19192,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-01-03T20:15:00Z",
+     "stage": 19.92,
+     "flow": 18488,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2018-02-11T19:45:00Z",
+     "stage": 19.82,
+     "flow": 17848,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2012-01-12T07:00:00Z",
+     "stage": 19.63,
+     "flow": 16631,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2023-03-03T03:00:00Z",
+     "stage": 19.56,
+     "flow": 16184,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2012-01-23T22:30:00Z",
+     "stage": 19.45,
+     "flow": 15570,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2002-03-18T00:00:00Z",
+     "stage": 19.44,
+     "flow": 15500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2013-01-16T20:30:00Z",
+     "stage": 19.28,
+     "flow": 14788,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-03-24T05:15:00Z",
+     "stage": 19.27,
+     "flow": 14742,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2012-01-18T14:00:00Z",
+     "stage": 19.23,
+     "flow": 14557,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2016-02-04T02:30:00Z",
+     "stage": 19.22,
+     "flow": 14512,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2021-04-01T09:00:00Z",
+     "stage": 19.15,
+     "flow": 14190,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2021-04-01T09:30:00Z",
+     "stage": 19.15,
+     "flow": 14190,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2025-03-16T19:45:00Z",
+     "stage": 19.02,
+     "flow": 13592,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-01-20T08:00:00Z",
+     "stage": 19,
+     "flow": 13500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2004-11-25T06:00:00Z",
+     "stage": 18.99,
+     "flow": 13464,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-02-13T21:45:00Z",
+     "stage": 18.98,
+     "flow": 13430,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2018-12-28T22:00:00Z",
+     "stage": 18.87,
+     "flow": 13045,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2010-01-25T11:00:00Z",
+     "stage": 18.84,
+     "flow": 12940,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2010-12-01T05:30:00Z",
+     "stage": 18.84,
+     "flow": 12940,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-11-24T06:00:00Z",
+     "stage": 18.82,
+     "flow": 12870,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2021-03-18T17:00:00Z",
+     "stage": 18.77,
+     "flow": 12695,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2022-01-02T18:30:00Z",
+     "stage": 18.71,
+     "flow": 12485,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-02-12T03:00:00Z",
+     "stage": 18.7,
+     "flow": 12450,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2021-04-09T06:00:00Z",
+     "stage": 18.57,
+     "flow": 11995,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2000-12-17T00:00:00Z",
+     "stage": 18.57,
+     "flow": 11900,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2011-03-10T04:00:00Z",
+     "stage": 18.55,
+     "flow": 11924,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-03-25T06:45:00Z",
+     "stage": 18.45,
+     "flow": 11575,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-05-04T18:00:00Z",
+     "stage": 18.45,
+     "flow": 11575,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-12-23T21:45:00Z",
+     "stage": 18.41,
+     "flow": 11435,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2025-04-07T06:15:00Z",
+     "stage": 18.35,
+     "flow": 11225,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-25T07:15:00Z",
+     "stage": 18.25,
+     "flow": 10875,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2015-12-02T15:00:00Z",
+     "stage": 18.24,
+     "flow": 10840,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2025-02-13T16:30:00Z",
+     "stage": 18.16,
+     "flow": 10560,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-21T17:15:00Z",
+     "stage": 18.14,
+     "flow": 10490,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-04-03T21:00:00Z",
+     "stage": 18.09,
+     "flow": 10315,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-03-27T08:30:00Z",
+     "stage": 17.98,
+     "flow": 9957,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-01-07T15:30:00Z",
+     "stage": 17.93,
+     "flow": 9853,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-01-15T05:15:00Z",
+     "stage": 17.91,
+     "flow": 9811,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-03-09T21:45:00Z",
+     "stage": 17.91,
+     "flow": 9811,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-02-12T11:15:00Z",
+     "stage": 17.79,
+     "flow": 9559,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2016-02-16T15:30:00Z",
+     "stage": 17.78,
+     "flow": 9538,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-25T08:15:00Z",
+     "stage": 17.76,
+     "flow": 9496,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2008-12-12T08:30:00Z",
+     "stage": 17.63,
+     "flow": 9222,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-01-24T15:15:00Z",
+     "stage": 17.56,
+     "flow": 9076,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2022-03-09T21:30:00Z",
+     "stage": 17.55,
+     "flow": 9055,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-03-04T09:00:00Z",
+     "stage": 17.52,
+     "flow": 8992,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2016-01-23T04:30:00Z",
+     "stage": 17.49,
+     "flow": 8929,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-01-15T10:15:00Z",
+     "stage": 17.48,
+     "flow": 8908,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2021-12-30T16:30:00Z",
+     "stage": 17.43,
+     "flow": 8803,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2011-04-05T17:30:00Z",
+     "stage": 17.39,
+     "flow": 8718,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-22T08:00:00Z",
+     "stage": 17.39,
+     "flow": 8719,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2013-05-07T00:30:00Z",
+     "stage": 17.3,
+     "flow": 8530,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2014-04-30T15:00:00Z",
+     "stage": 17.29,
+     "flow": 8509,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2018-04-15T17:15:00Z",
+     "stage": 17.24,
+     "flow": 8404,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-12-31T02:15:00Z",
+     "stage": 17.16,
+     "flow": 8236,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2018-02-28T23:00:00Z",
+     "stage": 17.14,
+     "flow": 8194,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-25T09:15:00Z",
+     "stage": 17.14,
+     "flow": 8194,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-05-03T01:00:00Z",
+     "stage": 17.14,
+     "flow": 8193,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2024-05-10T00:30:00Z",
+     "stage": 17.08,
+     "flow": 8068,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2010-02-06T06:00:00Z",
+     "stage": 17.08,
+     "flow": 8068,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2018-03-02T12:15:00Z",
+     "stage": 17.05,
+     "flow": 8005,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2006-04-08T00:00:00Z",
+     "stage": 16.16,
+     "flow": 6540,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2007-11-15T00:00:00Z",
+     "stage": 14.75,
+     "flow": 4810,
+     "preliminary": "O",
+     "olddatum": false
+    }
+   ],
+   "recent": [
+    {
+     "occurredTime": "2026-06-08T08:45:00Z",
+     "stage": 22.68,
+     "flow": 33723,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2025-04-07T06:15:00Z",
+     "stage": 18.35,
+     "flow": 11225,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2025-03-16T19:45:00Z",
+     "stage": 19.02,
+     "flow": 13592,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2025-02-13T16:30:00Z",
+     "stage": 18.16,
+     "flow": 10560,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2024-05-10T00:30:00Z",
+     "stage": 17.08,
+     "flow": 8068,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2023-03-03T03:00:00Z",
+     "stage": 19.56,
+     "flow": 16184,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2022-03-23T21:45:00Z",
+     "stage": 20.04,
+     "flow": 19192,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2022-03-09T21:30:00Z",
+     "stage": 17.55,
+     "flow": 9055,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2022-02-23T23:45:00Z",
+     "stage": 21.24,
+     "flow": 25168,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2022-01-02T18:30:00Z",
+     "stage": 18.71,
+     "flow": 12485,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2021-12-30T16:30:00Z",
+     "stage": 17.43,
+     "flow": 8803,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2021-09-20T14:15:00Z",
+     "stage": 22.67,
+     "flow": 33989,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2021-04-09T06:00:00Z",
+     "stage": 18.57,
+     "flow": 11995,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2021-04-01T09:00:00Z",
+     "stage": 19.15,
+     "flow": 14190,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2021-04-01T09:30:00Z",
+     "stage": 19.15,
+     "flow": 14190,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2021-03-18T17:00:00Z",
+     "stage": 18.77,
+     "flow": 12695,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-04-13T16:15:00Z",
+     "stage": 20.21,
+     "flow": 20008,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-03-25T06:45:00Z",
+     "stage": 18.45,
+     "flow": 11575,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-03-24T05:15:00Z",
+     "stage": 19.27,
+     "flow": 14742,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-02-13T21:45:00Z",
+     "stage": 18.98,
+     "flow": 13430,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-02-12T11:15:00Z",
+     "stage": 17.79,
+     "flow": 9559,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-02-12T03:00:00Z",
+     "stage": 18.7,
+     "flow": 12450,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-02-06T22:45:00Z",
+     "stage": 22.16,
+     "flow": 30572,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-01-15T05:15:00Z",
+     "stage": 17.91,
+     "flow": 9811,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-01-15T10:15:00Z",
+     "stage": 17.48,
+     "flow": 8908,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2020-01-03T20:15:00Z",
+     "stage": 19.92,
+     "flow": 18488,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-12-31T02:15:00Z",
+     "stage": 17.16,
+     "flow": 8236,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-12-23T21:45:00Z",
+     "stage": 18.41,
+     "flow": 11435,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-12-01T20:15:00Z",
+     "stage": 20.26,
+     "flow": 20248,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-11-24T06:00:00Z",
+     "stage": 18.82,
+     "flow": 12870,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-03-09T21:45:00Z",
+     "stage": 17.91,
+     "flow": 9811,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-03-04T09:00:00Z",
+     "stage": 17.52,
+     "flow": 8992,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-25T07:15:00Z",
+     "stage": 18.25,
+     "flow": 10875,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-25T09:15:00Z",
+     "stage": 17.14,
+     "flow": 8194,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-25T08:15:00Z",
+     "stage": 17.76,
+     "flow": 9496,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-24T08:00:00Z",
+     "stage": 22.12,
+     "flow": 30304,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-22T08:00:00Z",
+     "stage": 17.39,
+     "flow": 8719,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-21T17:15:00Z",
+     "stage": 18.14,
+     "flow": 10490,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-02-20T21:45:00Z",
+     "stage": 20.57,
+     "flow": 21736,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-01-24T15:15:00Z",
+     "stage": 17.56,
+     "flow": 9076,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2019-01-20T08:00:00Z",
+     "stage": 19,
+     "flow": 13500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2018-12-28T22:00:00Z",
+     "stage": 18.87,
+     "flow": 13045,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2018-04-15T17:15:00Z",
+     "stage": 17.24,
+     "flow": 8404,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2018-03-02T12:15:00Z",
+     "stage": 17.05,
+     "flow": 8005,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2018-03-01T13:30:00Z",
+     "stage": 20.72,
+     "flow": 22456,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2018-02-28T23:00:00Z",
+     "stage": 17.14,
+     "flow": 8194,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2018-02-11T19:45:00Z",
+     "stage": 19.82,
+     "flow": 17848,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2016-02-16T15:30:00Z",
+     "stage": 17.78,
+     "flow": 9538,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2016-02-04T02:30:00Z",
+     "stage": 19.22,
+     "flow": 14512,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2016-01-23T04:30:00Z",
+     "stage": 17.49,
+     "flow": 8929,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2015-12-26T11:30:00Z",
+     "stage": 22.99,
+     "flow": 36133,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2015-12-02T15:00:00Z",
+     "stage": 18.24,
+     "flow": 10840,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2014-04-30T15:00:00Z",
+     "stage": 17.29,
+     "flow": 8509,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2013-05-07T00:30:00Z",
+     "stage": 17.3,
+     "flow": 8530,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2013-01-16T20:30:00Z",
+     "stage": 19.28,
+     "flow": 14788,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2012-01-23T22:30:00Z",
+     "stage": 19.45,
+     "flow": 15570,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2012-01-18T14:00:00Z",
+     "stage": 19.23,
+     "flow": 14557,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2012-01-12T07:00:00Z",
+     "stage": 19.63,
+     "flow": 16631,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2011-04-28T14:30:00Z",
+     "stage": 24.58,
+     "flow": 48130,
+     "preliminary": "R",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2011-04-05T17:30:00Z",
+     "stage": 17.39,
+     "flow": 8718,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2011-03-10T04:00:00Z",
+     "stage": 18.55,
+     "flow": 11924,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2010-12-01T05:30:00Z",
+     "stage": 18.84,
+     "flow": 12940,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2010-02-06T06:00:00Z",
+     "stage": 17.08,
+     "flow": 8068,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2010-01-25T11:00:00Z",
+     "stage": 18.84,
+     "flow": 12940,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-12-10T00:30:00Z",
+     "stage": 20.83,
+     "flow": 22984,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-05-04T18:00:00Z",
+     "stage": 18.45,
+     "flow": 11575,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-05-03T01:00:00Z",
+     "stage": 17.14,
+     "flow": 8193,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-04-03T21:00:00Z",
+     "stage": 18.09,
+     "flow": 10315,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-03-27T08:30:00Z",
+     "stage": 17.98,
+     "flow": 9957,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2009-01-07T15:30:00Z",
+     "stage": 17.93,
+     "flow": 9853,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2008-12-12T08:30:00Z",
+     "stage": 17.63,
+     "flow": 9222,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2008-12-11T02:30:00Z",
+     "stage": 20.91,
+     "flow": 23368,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2007-11-15T00:00:00Z",
+     "stage": 14.75,
+     "flow": 4810,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2006-04-08T00:00:00Z",
+     "stage": 16.16,
+     "flow": 6540,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2004-12-10T05:30:00Z",
+     "stage": 20.85,
+     "flow": 19975,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2004-12-07T15:30:00Z",
+     "stage": 22.59,
+     "flow": 32900,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2004-11-25T06:00:00Z",
+     "stage": 18.99,
+     "flow": 13464,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2004-03-07T00:00:00Z",
+     "stage": 20.2,
+     "flow": 17700,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2004-02-06T17:00:00Z",
+     "stage": 23.03,
+     "flow": 36400,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2003-05-07T03:00:00Z",
+     "stage": 22.1,
+     "flow": 33500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2002-03-18T00:00:00Z",
+     "stage": 19.44,
+     "flow": 15500,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2000-12-17T00:00:00Z",
+     "stage": 18.57,
+     "flow": 11900,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2000-04-04T00:00:00Z",
+     "stage": 20.42,
+     "flow": 23900,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1999-01-23T00:00:00Z",
+     "stage": 20.61,
+     "flow": 26300,
+     "preliminary": "O",
+     "olddatum": false
+    }
+   ]
+  },
+  "lowWaters": {
+   "historic": []
+  },
+  "impacts": [
+   {
+    "stage": 28,
+    "statement": "Water breaches the bridge over the Flint River on Brownsboro Road. Major flooding causes evacuations of the area."
+   },
+   {
+    "stage": 26.5,
+    "statement": "Water breaches Wall Road. Major flooding is occurring on both the left and right bank with evacuations necessary and homes flooded. "
+   },
+   {
+    "stage": 25.5,
+    "statement": "The intersection of Brownsboro Road and Wall Road on the right bank is flooded. The bridge over the Flint River is still not breached but likely cannot be reached by car from either side. Significant flooding is occurring on the left bank and evacuations are likely necessary. "
+   },
+   {
+    "stage": 25,
+    "statement": "Water begins to cover the Highway 72 bridges over the Flint River. Highway 72 may have to be closed. "
+   },
+   {
+    "stage": 23.5,
+    "statement": "Significant flooding is occurring between the Flint River and a manmade levee created by railroad tracks on the left bank. Water breaches a driveway on the downstream right bank and may be approaching a home on the upstream right bank. "
+   },
+   {
+    "stage": 22,
+    "statement": "Flood waters begin to affect yards on the right bank. Homes are not threatened on the right bank at this stage. Brownsboro Road north of the Flint River is closed due to high waters. At least two homes on the left bank are threatened by floodwaters. The gage house becomes inaccessible. "
+   },
+   {
+    "stage": 21,
+    "statement": "Floodwaters reach a house trailer off of Brownsboro Road and waters likely cover Brownsboro Road to the point that it must be closed. "
+   },
+   {
+    "stage": 20,
+    "statement": "Backwater on a nearby tributary added to floodwaters from the Flint River both reach a small bridge on Brownsboro Road. "
+   },
+   {
+    "stage": 19,
+    "statement": "Water begins to flood yards on the downstream side of the Brownsboro Road bridge. "
+   },
+   {
+    "stage": 17,
+    "statement": "Water floods a large field on the upstream left bank and is flooding large portions of the downstream left bank."
+   },
+   {
+    "stage": 15,
+    "statement": "Water begins to flood the downstream left bank. "
+   }
+  ]
+ },
+ "dataAttribution": [
+  {
+   "abbrev": "US Geological Survey",
+   "text": "USGS--Water Resources of the United States",
+   "title": "US Geological Survey",
+   "url": "https://waterdata.usgs.gov/nwis"
+  },
+  {
+   "abbrev": "USGS",
+   "text": "03575100",
+   "title": "Observations courtesy of U.S. Geological Survey",
+   "url": "https://waterdata.usgs.gov/nwis/inventory/?site_no=03575100"
+  }
+ ],
+ "impactsLowWaters": [],
+ "normalThreshold": {
+  "value": 0,
+  "units": "ft"
+ },
+ "hydronotes": [],
+ "datums": {
+  "vertical": {
+   "value": []
+  },
+  "horizontal": {
+   "value": []
+  },
+  "notes": {
+   "value": []
+  }
+ },
+ "inundation": {
+  "enabled": true,
+  "url": "https://mapservices.weather.noaa.gov/static/rest/services/NWS_FIM/FIM_bsba1/MapServer",
+  "zeroDatum": {
+   "value": 0,
+   "datum": "NAVD88"
+  },
+  "downloads": {
+   "depthGrids": "https://water.noaa.gov/resources/downloads/fim/bsba1/bsba1_shapefiles.zip",
+   "images": "https://water.noaa.gov/resources/downloads/fim/bsba1/bsba1_images.zip",
+   "kmz": "https://water.noaa.gov/resources/downloads/fim/bsba1/bsba1_kmz.zip"
+  },
+  "siteSpecificInfo": "Graphical representation of flood inundation for NWS flood categories are based on steady state hydraulic modeling of water surface elevations for incremented discharges. Map shows approximate inundation areas for given water surface elevations and should not be used for navigation or permitting or other legal purposes, but strictly as a planning reference tool.",
+  "dataAttribution": []
+ },
+ "upstreamLid": "",
+ "downstreamLid": "",
+ "inService": {
+  "enabled": true,
+  "message": ""
+ },
+ "lowThreshold": null,
+ "forecastReliability": "Forecasts are issued routinely year-round."
+}

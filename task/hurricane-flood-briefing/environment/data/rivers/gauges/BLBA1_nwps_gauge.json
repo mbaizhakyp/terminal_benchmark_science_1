@@ -1,0 +1,125 @@
+{
+ "lid": "BLBA1",
+ "usgsId": "",
+ "reachId": "18073026",
+ "name": "Tide Gauge near Bayou La Batre Bridge (in MHHW)",
+ "description": "",
+ "rfc": {
+  "abbreviation": "LMRFC",
+  "name": "Lower Mississippi River Forecast Center"
+ },
+ "wfo": {
+  "abbreviation": "MOB",
+  "name": "Mobile"
+ },
+ "state": {
+  "abbreviation": "AL",
+  "name": "Alabama"
+ },
+ "county": "Mobile",
+ "timeZone": "CST6CDT",
+ "latitude": 30.40567,
+ "longitude": -88.24769,
+ "pedts": {
+  "observed": "HCIRG",
+  "forecast": "HCIFV"
+ },
+ "flood": {
+  "stageUnits": "ft",
+  "flowUnits": "cfs",
+  "categories": {
+   "major": {
+    "stage": 6,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": 3,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": 2,
+    "flow": -9999
+   },
+   "action": {
+    "stage": -9999,
+    "flow": -9999
+   }
+  },
+  "crests": {
+   "historic": [],
+   "recent": []
+  },
+  "lowWaters": {
+   "historic": []
+  },
+  "impacts": [
+   {
+    "stage": 5,
+    "statement": "5.0 ft MHHW plus - Shell Belt and Coden Belt Rds closed. Some homes on the north side of Shell Belt and Coden Belt Rds experience several feet of water in the structures. "
+   },
+   {
+    "stage": 4,
+    "statement": "4.0 to 5.0 ft MHHW - Water begins to encroach into yards and under the elevated homes on the north side of Shell Belt Rd, with up to 3 ft of water. Shell Belt and Coden Belt Rds closed. Water begins to cover portions of Heron Bay Loop Rd along Heron Bay and may limit travel here. A few businesses on the waterfront in Bayou La Batre can have up to 6 in of water in them."
+   },
+   {
+    "stage": 2.5,
+    "statement": "2.5 to 3.0 ft MHHW - Most portions of Shell belt and Coden Belt Rds become impassable due to flood waters. "
+   },
+   {
+    "stage": 2.1,
+    "statement": "2.1 to 2.5 ft MHHW - High water impacts significant portions of Shell Belt and Coden Belt Rds, with limited travel and some full closures."
+   },
+   {
+    "stage": 2,
+    "statement": "Water begins to cover portions of Shell Belt and Coden Belt Rds. Roads may have some debris on them, but usually remain open."
+   },
+   {
+    "stage": 1,
+    "statement": "1.0 to 2.0 ft MHHW - Some splash up onto Shell Belt and Coden Belt Rds can occur. Roads usually remain open."
+   }
+  ]
+ },
+ "dataAttribution": [],
+ "impactsLowWaters": [],
+ "normalThreshold": {
+  "value": 0,
+  "units": "ft"
+ },
+ "hydronotes": [
+  {
+   "statement": "Water levels are referenced to the Mean Higher High Water (MHHW) Datum. This datum can be used to approximate sea water inundation of normally dry ground near the coast. For specific impacts, please refer to the statements on this page.",
+   "effective": "0101",
+   "expiration": "1231"
+  }
+ ],
+ "datums": {
+  "vertical": {
+   "value": []
+  },
+  "horizontal": {
+   "value": []
+  },
+  "notes": {
+   "value": []
+  }
+ },
+ "inundation": {
+  "enabled": false,
+  "url": "",
+  "zeroDatum": null,
+  "downloads": null,
+  "siteSpecificInfo": "",
+  "dataAttribution": []
+ },
+ "upstreamLid": "",
+ "downstreamLid": "",
+ "inService": {
+  "enabled": true,
+  "message": ""
+ },
+ "lowThreshold": {
+  "units": "ft",
+  "value": -1.61
+ },
+ "forecastReliability": "Forecasts are issued routinely year-round."
+}

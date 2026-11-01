@@ -1,0 +1,477 @@
+{
+ "lid": "TYLA1",
+ "usgsId": "02421350",
+ "reachId": "21687488",
+ "name": "Alabama River at Henry Lock and Dam",
+ "description": "",
+ "rfc": {
+  "abbreviation": "SERFC",
+  "name": "Southeast River Forecast Center"
+ },
+ "wfo": {
+  "abbreviation": "BMX",
+  "name": "Calera"
+ },
+ "state": {
+  "abbreviation": "AL",
+  "name": "Alabama"
+ },
+ "county": "Lowndes",
+ "timeZone": "CST6CDT",
+ "latitude": 32.322222222222,
+ "longitude": -86.783888888889,
+ "pedts": {
+  "observed": "HTIRG",
+  "forecast": "HTIFF"
+ },
+ "flood": {
+  "stageUnits": "ft",
+  "flowUnits": "cfs",
+  "categories": {
+   "major": {
+    "stage": 135,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": 132,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": 122,
+    "flow": -9999
+   },
+   "action": {
+    "stage": 122,
+    "flow": -9999
+   }
+  },
+  "crests": {
+   "historic": [
+    {
+     "occurredTime": "1990-03-20T10:00:00Z",
+     "stage": 135.4,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1979-04-18T00:00:00Z",
+     "stage": 133,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1990-02-21T00:00:00Z",
+     "stage": 127.05,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2015-12-27T23:00:00Z",
+     "stage": 127.01,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1976-04-03T00:00:00Z",
+     "stage": 126.9,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1980-04-01T00:00:00Z",
+     "stage": 126.3,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1983-04-12T00:00:00Z",
+     "stage": 126.18,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2005-04-03T19:00:00Z",
+     "stage": 126.02,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1998-03-11T13:00:00Z",
+     "stage": 125.92,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1989-06-23T00:00:00Z",
+     "stage": 124.8,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1982-02-05T00:00:00Z",
+     "stage": 123.6,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2014-04-10T00:00:00Z",
+     "stage": 122.6,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1996-03-09T00:00:00Z",
+     "stage": 122.56,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2010-03-13T11:00:00Z",
+     "stage": 121.46,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2003-05-02T00:00:00Z",
+     "stage": 121.36,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2018-12-31T06:00:00Z",
+     "stage": 120.2,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1990-01-27T00:00:00Z",
+     "stage": 119.97,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2013-02-14T00:00:00Z",
+     "stage": 119.24,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2017-06-24T23:00:00Z",
+     "stage": 115.57,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2011-03-11T15:00:00Z",
+     "stage": 115.36,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2016-02-25T18:00:00Z",
+     "stage": 113.59,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1991-04-01T00:00:00Z",
+     "stage": 110.9,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2012-03-04T23:00:00Z",
+     "stage": 102.49,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    }
+   ],
+   "recent": [
+    {
+     "occurredTime": "2018-12-31T06:00:00Z",
+     "stage": 120.2,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2017-06-24T23:00:00Z",
+     "stage": 115.57,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2016-02-25T18:00:00Z",
+     "stage": 113.59,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2015-12-27T23:00:00Z",
+     "stage": 127.01,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2014-04-10T00:00:00Z",
+     "stage": 122.6,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2013-02-14T00:00:00Z",
+     "stage": 119.24,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2012-03-04T23:00:00Z",
+     "stage": 102.49,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2011-03-11T15:00:00Z",
+     "stage": 115.36,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2010-03-13T11:00:00Z",
+     "stage": 121.46,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2005-04-03T19:00:00Z",
+     "stage": 126.02,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2003-05-02T00:00:00Z",
+     "stage": 121.36,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1998-03-11T13:00:00Z",
+     "stage": 125.92,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1996-03-09T00:00:00Z",
+     "stage": 122.56,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1991-04-01T00:00:00Z",
+     "stage": 110.9,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1990-03-20T10:00:00Z",
+     "stage": 135.4,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1990-02-21T00:00:00Z",
+     "stage": 127.05,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1990-01-27T00:00:00Z",
+     "stage": 119.97,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1989-06-23T00:00:00Z",
+     "stage": 124.8,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1983-04-12T00:00:00Z",
+     "stage": 126.18,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1982-02-05T00:00:00Z",
+     "stage": 123.6,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1980-04-01T00:00:00Z",
+     "stage": 126.3,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1979-04-18T00:00:00Z",
+     "stage": 133,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1976-04-03T00:00:00Z",
+     "stage": 126.9,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    }
+   ]
+  },
+  "lowWaters": {
+   "historic": []
+  },
+  "impacts": [
+   {
+    "stage": 138,
+    "statement": "There is considerable flooding in Autaugaville. In addition...most of Benton is flooded at this level. "
+   },
+   {
+    "stage": 136.5,
+    "statement": "Most of Benton Road from US 80 to Edsons is flooded. County Road 15 from the Lock to Days Bend floods. "
+   },
+   {
+    "stage": 135.5,
+    "statement": "Sections of Benton Road off of US Hwy 80 are flooded."
+   },
+   {
+    "stage": 135,
+    "statement": "In Benton, Calhoun and Church Street are flooded. Sections of 1st through 4th Streets are flooded along with sections of Commerce and Market Streets."
+   },
+   {
+    "stage": 134,
+    "statement": "Portions of Autaugaville begin to flood. In addition...sections of the western railway of Alabama Railroad begin to flood at this level. At 135 feet considerable flooding occurs in Benton. "
+   },
+   {
+    "stage": 132,
+    "statement": "Portions of Benton begin to flood. Numerous house trailers along the river become flooded if not moved to higher ground. "
+   },
+   {
+    "stage": 130,
+    "statement": "Sections of Praire Creek Campground will begin to flood as water rises to stages of 130 to 135. "
+   },
+   {
+    "stage": 127,
+    "statement": "Widespread flooding of farm lands and some homes and trailers along the river occurs. "
+   },
+   {
+    "stage": 122,
+    "statement": "Flooding of agricultural lands begins. "
+   }
+  ]
+ },
+ "dataAttribution": [
+  {
+   "abbrev": "US Geological Survey",
+   "text": "USGS--Water Resources of the United States",
+   "title": "US Geological Survey",
+   "url": "https://waterdata.usgs.gov/nwis"
+  },
+  {
+   "abbrev": "USGS",
+   "text": "02421350",
+   "title": "Observations courtesy of U.S. Geological Survey",
+   "url": "https://waterdata.usgs.gov/nwis/inventory/?site_no=02421350"
+  },
+  {
+   "abbrev": "COE",
+   "text": "Website",
+   "title": "Observations courtesy of U.S. Army Corps of Engineers",
+   "url": "http://water.sam.usace.army.mil/"
+  }
+ ],
+ "impactsLowWaters": [],
+ "normalThreshold": {
+  "value": 0,
+  "units": "ft"
+ },
+ "hydronotes": [
+  {
+   "statement": "River forecasts for this location take into account past precipitation and the precipitation amounts expected approximately 48 hours into the future from the forecast issuance time.",
+   "effective": "0101",
+   "expiration": "1231"
+  }
+ ],
+ "datums": {
+  "vertical": {
+   "value": []
+  },
+  "horizontal": {
+   "value": []
+  },
+  "notes": {
+   "value": []
+  }
+ },
+ "inundation": {
+  "enabled": false,
+  "url": "",
+  "zeroDatum": null,
+  "downloads": null,
+  "siteSpecificInfo": "",
+  "dataAttribution": []
+ },
+ "upstreamLid": "MGMA1",
+ "downstreamLid": "SELA1",
+ "inService": {
+  "enabled": true,
+  "message": ""
+ },
+ "lowThreshold": null,
+ "forecastReliability": "Forecasts are issued routinely year-round."
+}

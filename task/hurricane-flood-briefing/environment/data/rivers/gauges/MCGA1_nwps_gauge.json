@@ -1,0 +1,129 @@
+{
+ "lid": "MCGA1",
+ "usgsId": "",
+ "reachId": "",
+ "name": "Tide Gauge at Coast Guard Sector Mobile (IN MHHW)",
+ "description": "",
+ "rfc": {
+  "abbreviation": "SERFC",
+  "name": "Southeast River Forecast Center"
+ },
+ "wfo": {
+  "abbreviation": "MOB",
+  "name": "Mobile"
+ },
+ "state": {
+  "abbreviation": "AL",
+  "name": "Alabama"
+ },
+ "county": "Mobile",
+ "timeZone": "CST6CDT",
+ "latitude": 30.6483,
+ "longitude": -88.0583,
+ "pedts": {
+  "observed": "HCIRG",
+  "forecast": "HCIFV"
+ },
+ "flood": {
+  "stageUnits": "ft",
+  "flowUnits": "cfs",
+  "categories": {
+   "major": {
+    "stage": 6,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": 3,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": 1.7,
+    "flow": -9999
+   },
+   "action": {
+    "stage": -9999,
+    "flow": -9999
+   }
+  },
+  "crests": {
+   "historic": [],
+   "recent": []
+  },
+  "lowWaters": {
+   "historic": []
+  },
+  "impacts": [
+   {
+    "stage": 2.65,
+    "statement": "Alternate 90 Eastbound roadway flooded near Cochran Bridge. Expect major delays."
+   },
+   {
+    "stage": 2.5,
+    "statement": "2.5 - 2.8 ft MHHW - Both directions of the US 90/98 are impassable due to flooding. Approximately 1 foot of water on the road."
+   },
+   {
+    "stage": 2.3,
+    "statement": "Both directions of the US 90/98 Causeway flood."
+   },
+   {
+    "stage": 2.1,
+    "statement": "Both eastbound and westbound I-10 ramps on the US90/98 Causeway can be closed after becoming impassable due to flood waters. Portions of outside eastbound lanes elsewhere on the Causeway have some splash up water on the road. US90 westbound lanes usually remain open to traffic, but will need to be monitored. Locations along Highway 163/Dauphine Island Parkway north of the the Dog River Bridge, from just north of Helen Wood Park to the south end of North Mariana Dr, begin to flood"
+   },
+   {
+    "stage": 2,
+    "statement": "2.0 - 3.0 ft MWWH - Moderate flooding of docks, piers, boat ramps and other low lying areas over portions of Mobile Bay. Minor flooding of docks, piers, boat ramps, and other lying areas along portions of the Eastern Shore."
+   },
+   {
+    "stage": 1.75,
+    "statement": "The outside lane of eastbound US 90/98 Causeway can sometime experience minor flooding, although the road remains open."
+   },
+   {
+    "stage": 1.7,
+    "statement": "1.7 - 2.0ft MHHW - Minor flooding of docks, piers, boat ramps and other low lying areas over portions of northern Mobile Bay. Low lying portions of the US 90/98 Causeway near the eastbound I-10 on ramp begins to see some splash-up and some standing water."
+   }
+  ]
+ },
+ "dataAttribution": [],
+ "impactsLowWaters": [],
+ "normalThreshold": {
+  "value": 0,
+  "units": "ft"
+ },
+ "hydronotes": [
+  {
+   "statement": "Water levels are referenced to the Mean Higher High Water (MHHW) Datum. This datum can be used to approximate sea water inundation of normally dry ground near the coast. For specific impacts, please refer to the statements on this page.",
+   "effective": "0101",
+   "expiration": "1231"
+  }
+ ],
+ "datums": {
+  "vertical": {
+   "value": []
+  },
+  "horizontal": {
+   "value": []
+  },
+  "notes": {
+   "value": []
+  }
+ },
+ "inundation": {
+  "enabled": false,
+  "url": "",
+  "zeroDatum": null,
+  "downloads": null,
+  "siteSpecificInfo": "",
+  "dataAttribution": []
+ },
+ "upstreamLid": "",
+ "downstreamLid": "",
+ "inService": {
+  "enabled": true,
+  "message": ""
+ },
+ "lowThreshold": {
+  "units": "ft",
+  "value": -1.7
+ },
+ "forecastReliability": "Forecasts are issued routinely year-round."
+}

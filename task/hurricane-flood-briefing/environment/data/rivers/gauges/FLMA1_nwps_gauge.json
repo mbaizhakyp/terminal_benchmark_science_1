@@ -1,0 +1,370 @@
+{
+ "lid": "FLMA1",
+ "usgsId": "02375000",
+ "reachId": "446386",
+ "name": "Big Escambia Creek at Flomaton",
+ "description": "",
+ "rfc": {
+  "abbreviation": "SERFC",
+  "name": "Southeast River Forecast Center"
+ },
+ "wfo": {
+  "abbreviation": "MOB",
+  "name": "Mobile"
+ },
+ "state": {
+  "abbreviation": "AL",
+  "name": "Alabama"
+ },
+ "county": "Escambia",
+ "timeZone": "CST6CDT",
+ "latitude": 31.0105,
+ "longitude": -87.26265,
+ "pedts": {
+  "observed": "HGIRG",
+  "forecast": "HGIFF"
+ },
+ "flood": {
+  "stageUnits": "ft",
+  "flowUnits": "cfs",
+  "categories": {
+   "major": {
+    "stage": 22.5,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": 21,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": 19,
+    "flow": -9999
+   },
+   "action": {
+    "stage": 14,
+    "flow": -9999
+   }
+  },
+  "crests": {
+   "historic": [
+    {
+     "occurredTime": "1929-03-31T00:00:00Z",
+     "stage": 30.9,
+     "flow": 0,
+     "preliminary": "R",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1998-09-30T00:00:00Z",
+     "stage": 20.4,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2026-06-20T21:00:00Z",
+     "stage": 20.17,
+     "flow": 16224,
+     "preliminary": "P",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1998-03-09T00:00:00Z",
+     "stage": 19.7,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2026-06-20T01:15:00Z",
+     "stage": 19.55,
+     "flow": 14272,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1955-04-14T00:00:00Z",
+     "stage": 19.4,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1939-09-27T00:00:00Z",
+     "stage": 19.26,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1975-08-01T00:00:00Z",
+     "stage": 18,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1975-04-11T00:00:00Z",
+     "stage": 17.92,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1974-09-09T00:00:00Z",
+     "stage": 17.46,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1995-10-05T00:00:00Z",
+     "stage": 15.5,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1965-01-23T00:00:00Z",
+     "stage": 14.75,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1981-02-11T00:00:00Z",
+     "stage": 14.5,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1995-02-13T00:00:00Z",
+     "stage": 14.4,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1996-02-04T00:00:00Z",
+     "stage": 14,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1983-02-03T00:00:00Z",
+     "stage": 13,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    }
+   ],
+   "recent": [
+    {
+     "occurredTime": "2026-06-20T21:00:00Z",
+     "stage": 20.17,
+     "flow": 16224,
+     "preliminary": "P",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "2026-06-20T01:15:00Z",
+     "stage": 19.55,
+     "flow": 14272,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1998-09-30T00:00:00Z",
+     "stage": 20.4,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1998-03-09T00:00:00Z",
+     "stage": 19.7,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1996-02-04T00:00:00Z",
+     "stage": 14,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1995-10-05T00:00:00Z",
+     "stage": 15.5,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1995-02-13T00:00:00Z",
+     "stage": 14.4,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1983-02-03T00:00:00Z",
+     "stage": 13,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1981-02-11T00:00:00Z",
+     "stage": 14.5,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1975-08-01T00:00:00Z",
+     "stage": 18,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1975-04-11T00:00:00Z",
+     "stage": 17.92,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1974-09-09T00:00:00Z",
+     "stage": 17.46,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1965-01-23T00:00:00Z",
+     "stage": 14.75,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1955-04-14T00:00:00Z",
+     "stage": 19.4,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1939-09-27T00:00:00Z",
+     "stage": 19.26,
+     "flow": 0,
+     "preliminary": "O",
+     "olddatum": false
+    },
+    {
+     "occurredTime": "1929-03-31T00:00:00Z",
+     "stage": 30.9,
+     "flow": 0,
+     "preliminary": "R",
+     "olddatum": false
+    }
+   ]
+  },
+  "lowWaters": {
+   "historic": []
+  },
+  "impacts": [
+   {
+    "stage": 35.1,
+    "statement": "Highway 31 bridge becomes flooded."
+   },
+   {
+    "stage": 30.9,
+    "statement": "Town flooded from railroad tracks on west side of town east to the river."
+   },
+   {
+    "stage": 30,
+    "statement": "Most of Flomaton will become flooded as the level rises above 30 feet."
+   },
+   {
+    "stage": 22.5,
+    "statement": "Flooding of Highway 31 begins east of the high school to the Highway 29 intersection. Flooding of Palafox Street and streets east of Palafox, from Highway 31 south to Roosevelt and Railroad Street occurs. Evacuations may be required."
+   },
+   {
+    "stage": 21,
+    "statement": "Water approaches streets and homes in southeast Flomaton, along with Highway 31 on the north side of town."
+   },
+   {
+    "stage": 19,
+    "statement": "Water begins to approach several homes on north side of Highway 31."
+   },
+   {
+    "stage": 16.5,
+    "statement": "Minor overflow of low lying areas will occur and water may enter the yards of a few homes in the north and east side of town."
+   },
+   {
+    "stage": 13,
+    "statement": "Water reaches bankfull."
+   }
+  ]
+ },
+ "dataAttribution": [
+  {
+   "abbrev": "USGS",
+   "text": "02375000",
+   "title": "Observations courtesy of U.S. Geological Survey",
+   "url": "https://waterdata.usgs.gov/nwis/inventory/?site_no=02375000"
+  }
+ ],
+ "impactsLowWaters": [],
+ "normalThreshold": {
+  "value": 0,
+  "units": "ft"
+ },
+ "hydronotes": [
+  {
+   "statement": "River forecasts for this location take into account past precipitation and the precipitation amounts expected approximately 48 hours into the future from the forecast issuance time.",
+   "effective": "0101",
+   "expiration": "1231"
+  }
+ ],
+ "datums": {
+  "vertical": {
+   "value": [
+    {
+     "label": "North American Vertical Datum of 1988",
+     "abbrev": "NAVD88",
+     "description": "A fixed reference for elevations determined by geodetic leveling. The datum was derived from a general adjustment of the first-order terrestrial leveling nets of the United States, Canada, and Mexico. In the adjustment, only the height of the primary tidal bench mark, referenced to the International Great Lakes Datum of 1985 (IGLD 85) local mean sea level height value, at Father Point, Rimouski, Quebec, Canada was held fixed, thus providing minimum constraint. NAVD 88 and IGLD 85 are identical. However, NAVD 88 bench mark values are given in Helmert orthometric height units while IGLD 85 values are in dynamic heights. See International Great Lakes Datum of 1985, National Geodetic Vertical Datum of 1929, and geopotential difference. NAVD 88 should not be used as Mean Sea Level.",
+     "value": 47.76
+    }
+   ]
+  },
+  "horizontal": {
+   "value": []
+  },
+  "notes": {
+   "value": []
+  }
+ },
+ "inundation": {
+  "enabled": false,
+  "url": "",
+  "zeroDatum": null,
+  "downloads": null,
+  "siteSpecificInfo": "",
+  "dataAttribution": []
+ },
+ "upstreamLid": "",
+ "downstreamLid": "",
+ "inService": {
+  "enabled": true,
+  "message": ""
+ },
+ "lowThreshold": null,
+ "forecastReliability": "Forecasts are issued as needed during times of high water, but are not routinely available."
+}

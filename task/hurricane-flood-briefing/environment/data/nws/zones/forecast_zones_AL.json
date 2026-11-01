@@ -1,0 +1,2774 @@
+{
+    "@context": {
+        "@version": "1.1"
+    },
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ001",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ001",
+                "@type": "wx:Zone",
+                "id": "ALZ001",
+                "type": "public",
+                "name": "Lauderdale",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/HUN",
+                "gridIdentifier": "HUN",
+                "awipsLocationIdentifier": "HUN",
+                "cwa": [
+                    "HUN"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/HUN"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/K15M",
+                    "https://api.weather.gov/stations/KMSL",
+                    "https://api.weather.gov/stations/KSHN"
+                ],
+                "radarStation": "GWX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ002",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ002",
+                "@type": "wx:Zone",
+                "id": "ALZ002",
+                "type": "public",
+                "name": "Colbert",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/HUN",
+                "gridIdentifier": "HUN",
+                "awipsLocationIdentifier": "HUN",
+                "cwa": [
+                    "HUN"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/HUN"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/K15M",
+                    "https://api.weather.gov/stations/KCRX",
+                    "https://api.weather.gov/stations/KMSL"
+                ],
+                "radarStation": "GWX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ003",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ003",
+                "@type": "wx:Zone",
+                "id": "ALZ003",
+                "type": "public",
+                "name": "Franklin",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/HUN",
+                "gridIdentifier": "HUN",
+                "awipsLocationIdentifier": "HUN",
+                "cwa": [
+                    "HUN"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/HUN"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/K1M4",
+                    "https://api.weather.gov/stations/KTUP"
+                ],
+                "radarStation": "GWX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ004",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ004",
+                "@type": "wx:Zone",
+                "id": "ALZ004",
+                "type": "public",
+                "name": "Lawrence",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/HUN",
+                "gridIdentifier": "HUN",
+                "awipsLocationIdentifier": "HUN",
+                "cwa": [
+                    "HUN"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/HUN"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/K9A4",
+                    "https://api.weather.gov/stations/K1M4",
+                    "https://api.weather.gov/stations/KMSL",
+                    "https://api.weather.gov/stations/KTUP"
+                ],
+                "radarStation": "GWX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ005",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ005",
+                "@type": "wx:Zone",
+                "id": "ALZ005",
+                "type": "public",
+                "name": "Limestone",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/HUN",
+                "gridIdentifier": "HUN",
+                "awipsLocationIdentifier": "HUN",
+                "cwa": [
+                    "HUN"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/HUN"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KDCU",
+                    "https://api.weather.gov/stations/KFYM",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMDQ",
+                    "https://api.weather.gov/stations/KMRC",
+                    "https://api.weather.gov/stations/KMSL"
+                ],
+                "radarStation": "HTX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ006",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ006",
+                "@type": "wx:Zone",
+                "id": "ALZ006",
+                "type": "public",
+                "name": "Madison",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/HUN",
+                "gridIdentifier": "HUN",
+                "awipsLocationIdentifier": "HUN",
+                "cwa": [
+                    "HUN"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/HUN"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/K8A1",
+                    "https://api.weather.gov/stations/KDCU",
+                    "https://api.weather.gov/stations/KMDQ"
+                ],
+                "radarStation": "HTX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ007",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ007",
+                "@type": "wx:Zone",
+                "id": "ALZ007",
+                "type": "public",
+                "name": "Morgan",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/HUN",
+                "gridIdentifier": "HUN",
+                "awipsLocationIdentifier": "HUN",
+                "cwa": [
+                    "HUN"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/HUN"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KDCU",
+                    "https://api.weather.gov/stations/K8A1",
+                    "https://api.weather.gov/stations/KCMD",
+                    "https://api.weather.gov/stations/KHSV"
+                ],
+                "radarStation": "HTX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ008",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ008",
+                "@type": "wx:Zone",
+                "id": "ALZ008",
+                "type": "public",
+                "name": "Marshall",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/HUN",
+                "gridIdentifier": "HUN",
+                "awipsLocationIdentifier": "HUN",
+                "cwa": [
+                    "HUN"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/HUN"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KBFZ",
+                    "https://api.weather.gov/stations/K4A6",
+                    "https://api.weather.gov/stations/K4A9",
+                    "https://api.weather.gov/stations/K8A1",
+                    "https://api.weather.gov/stations/KCMD",
+                    "https://api.weather.gov/stations/KGAD",
+                    "https://api.weather.gov/stations/KHSV"
+                ],
+                "radarStation": "HTX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ009",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ009",
+                "@type": "wx:Zone",
+                "id": "ALZ009",
+                "type": "public",
+                "name": "Jackson",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/HUN",
+                "gridIdentifier": "HUN",
+                "awipsLocationIdentifier": "HUN",
+                "cwa": [
+                    "HUN"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/HUN"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/K4A6",
+                    "https://api.weather.gov/stations/K8A1",
+                    "https://api.weather.gov/stations/KBGF",
+                    "https://api.weather.gov/stations/KCHA"
+                ],
+                "radarStation": "HTX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ010",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ010",
+                "@type": "wx:Zone",
+                "id": "ALZ010",
+                "type": "public",
+                "name": "DeKalb",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/HUN",
+                "gridIdentifier": "HUN",
+                "awipsLocationIdentifier": "HUN",
+                "cwa": [
+                    "HUN"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/HUN"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/K4A9",
+                    "https://api.weather.gov/stations/K4A6",
+                    "https://api.weather.gov/stations/K8A1",
+                    "https://api.weather.gov/stations/KBZF",
+                    "https://api.weather.gov/stations/KRMG"
+                ],
+                "radarStation": "HTX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ011",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ011",
+                "@type": "wx:Zone",
+                "id": "ALZ011",
+                "type": "public",
+                "name": "Marion",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMSL",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCHA",
+                    "https://api.weather.gov/stations/KDCU",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "GWX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ012",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ012",
+                "@type": "wx:Zone",
+                "id": "ALZ012",
+                "type": "public",
+                "name": "Lamar",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTCL",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM"
+                ],
+                "radarStation": "GWX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ013",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ013",
+                "@type": "wx:Zone",
+                "id": "ALZ013",
+                "type": "public",
+                "name": "Fayette",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTCL",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM"
+                ],
+                "radarStation": "GWX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ014",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ014",
+                "@type": "wx:Zone",
+                "id": "ALZ014",
+                "type": "public",
+                "name": "Winston",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMSL",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KDCU",
+                    "https://api.weather.gov/stations/KGAD",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KTCL",
+                    "https://api.weather.gov/stations/KTUP"
+                ],
+                "radarStation": "GWX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ015",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ015",
+                "@type": "wx:Zone",
+                "id": "ALZ015",
+                "type": "public",
+                "name": "Walker",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTCL",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ016",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ016",
+                "@type": "wx:Zone",
+                "id": "ALZ016",
+                "type": "public",
+                "name": "Cullman",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/HUN",
+                "gridIdentifier": "HUN",
+                "awipsLocationIdentifier": "HUN",
+                "cwa": [
+                    "HUN"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/HUN"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KCMD",
+                    "https://api.weather.gov/stations/K8A1",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KGAD",
+                    "https://api.weather.gov/stations/KJFX"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ017",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ017",
+                "@type": "wx:Zone",
+                "id": "ALZ017",
+                "type": "public",
+                "name": "Blount",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCHA",
+                    "https://api.weather.gov/stations/KDCU",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMSL",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ018",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ018",
+                "@type": "wx:Zone",
+                "id": "ALZ018",
+                "type": "public",
+                "name": "Etowah",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KGAD",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCHA",
+                    "https://api.weather.gov/stations/KDCU",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "HTX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ019",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ019",
+                "@type": "wx:Zone",
+                "id": "ALZ019",
+                "type": "public",
+                "name": "Calhoun",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCHA",
+                    "https://api.weather.gov/stations/KGAD",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KRMG",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ020",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ020",
+                "@type": "wx:Zone",
+                "id": "ALZ020",
+                "type": "public",
+                "name": "Cherokee",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KGAD",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCHA",
+                    "https://api.weather.gov/stations/KDCU",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KRMG",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "HTX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ021",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ021",
+                "@type": "wx:Zone",
+                "id": "ALZ021",
+                "type": "public",
+                "name": "Cleburne",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KGAD",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KRMG",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "FFC"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ022",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ022",
+                "@type": "wx:Zone",
+                "id": "ALZ022",
+                "type": "public",
+                "name": "Pickens",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTCL",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM"
+                ],
+                "radarStation": "GWX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ023",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ023",
+                "@type": "wx:Zone",
+                "id": "ALZ023",
+                "type": "public",
+                "name": "Tuscaloosa",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTCL",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ024",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ024",
+                "@type": "wx:Zone",
+                "id": "ALZ024",
+                "type": "public",
+                "name": "Jefferson",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ025",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ025",
+                "@type": "wx:Zone",
+                "id": "ALZ025",
+                "type": "public",
+                "name": "Shelby",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KALX",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KMOB",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ026",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ026",
+                "@type": "wx:Zone",
+                "id": "ALZ026",
+                "type": "public",
+                "name": "St. Clair",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ027",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ027",
+                "@type": "wx:Zone",
+                "id": "ALZ027",
+                "type": "public",
+                "name": "Talladega",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KALX",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KGAD",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KRMG",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ028",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ028",
+                "@type": "wx:Zone",
+                "id": "ALZ028",
+                "type": "public",
+                "name": "Clay",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KALX",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KGAD",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KRMG",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "MXX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ029",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ029",
+                "@type": "wx:Zone",
+                "id": "ALZ029",
+                "type": "public",
+                "name": "Randolph",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KALX",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KGAD",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KRMG",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "MXX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ030",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ030",
+                "@type": "wx:Zone",
+                "id": "ALZ030",
+                "type": "public",
+                "name": "Sumter",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTCL",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM"
+                ],
+                "radarStation": "GWX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ031",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ031",
+                "@type": "wx:Zone",
+                "id": "ALZ031",
+                "type": "public",
+                "name": "Greene",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTCL",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM"
+                ],
+                "radarStation": "GWX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ032",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ032",
+                "@type": "wx:Zone",
+                "id": "ALZ032",
+                "type": "public",
+                "name": "Hale",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTCL",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ033",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ033",
+                "@type": "wx:Zone",
+                "id": "ALZ033",
+                "type": "public",
+                "name": "Perry",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ034",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ034",
+                "@type": "wx:Zone",
+                "id": "ALZ034",
+                "type": "public",
+                "name": "Bibb",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTCL",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ035",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ035",
+                "@type": "wx:Zone",
+                "id": "ALZ035",
+                "type": "public",
+                "name": "Chilton",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KALX",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ036",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ036",
+                "@type": "wx:Zone",
+                "id": "ALZ036",
+                "type": "public",
+                "name": "Coosa",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KALX",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KEET",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ037",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ037",
+                "@type": "wx:Zone",
+                "id": "ALZ037",
+                "type": "public",
+                "name": "Tallapoosa",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KALX",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "MXX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ038",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ038",
+                "@type": "wx:Zone",
+                "id": "ALZ038",
+                "type": "public",
+                "name": "Chambers",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KALX",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "MXX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ039",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ039",
+                "@type": "wx:Zone",
+                "id": "ALZ039",
+                "type": "public",
+                "name": "Marengo",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTCL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KMEI",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KMOB",
+                    "https://api.weather.gov/stations/KPNS"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ040",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ040",
+                "@type": "wx:Zone",
+                "id": "ALZ040",
+                "type": "public",
+                "name": "Dallas",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ041",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ041",
+                "@type": "wx:Zone",
+                "id": "ALZ041",
+                "type": "public",
+                "name": "Autauga",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KALX",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ042",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ042",
+                "@type": "wx:Zone",
+                "id": "ALZ042",
+                "type": "public",
+                "name": "Lowndes",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KDHN",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "MXX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ043",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ043",
+                "@type": "wx:Zone",
+                "id": "ALZ043",
+                "type": "public",
+                "name": "Elmore",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KALX",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KDHN",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "MXX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ044",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ044",
+                "@type": "wx:Zone",
+                "id": "ALZ044",
+                "type": "public",
+                "name": "Montgomery",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KDHN",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "MXX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ045",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ045",
+                "@type": "wx:Zone",
+                "id": "ALZ045",
+                "type": "public",
+                "name": "Macon",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KALX",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "MXX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ046",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ046",
+                "@type": "wx:Zone",
+                "id": "ALZ046",
+                "type": "public",
+                "name": "Bullock",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTOI",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KDHN",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "MXX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ047",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ047",
+                "@type": "wx:Zone",
+                "id": "ALZ047",
+                "type": "public",
+                "name": "Lee",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KALX",
+                    "https://api.weather.gov/stations/KANB",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "MXX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ048",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ048",
+                "@type": "wx:Zone",
+                "id": "ALZ048",
+                "type": "public",
+                "name": "Russell",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KTCL",
+                    "https://api.weather.gov/stations/KTOI"
+                ],
+                "radarStation": "MXX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ049",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ049",
+                "@type": "wx:Zone",
+                "id": "ALZ049",
+                "type": "public",
+                "name": "Pike",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTOI",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KDHN",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "EOX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ050",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ050",
+                "@type": "wx:Zone",
+                "id": "ALZ050",
+                "type": "public",
+                "name": "Barbour",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/BMX",
+                "gridIdentifier": "BMX",
+                "awipsLocationIdentifier": "BMX",
+                "cwa": [
+                    "BMX"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/BMX"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTOI",
+                    "https://api.weather.gov/stations/KATL",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBNA",
+                    "https://api.weather.gov/stations/KCSG",
+                    "https://api.weather.gov/stations/KDHN",
+                    "https://api.weather.gov/stations/KHSV",
+                    "https://api.weather.gov/stations/KMEM",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KTCL"
+                ],
+                "radarStation": "EOX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ051",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ051",
+                "@type": "wx:Zone",
+                "id": "ALZ051",
+                "type": "public",
+                "name": "Choctaw",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMEI",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KMOB",
+                    "https://api.weather.gov/stations/KNMM",
+                    "https://api.weather.gov/stations/KPIB",
+                    "https://api.weather.gov/stations/KPNS"
+                ],
+                "radarStation": "MOB"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ052",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ052",
+                "@type": "wx:Zone",
+                "id": "ALZ052",
+                "type": "public",
+                "name": "Washington",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMOB",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBIX",
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEI",
+                    "https://api.weather.gov/stations/KPIB",
+                    "https://api.weather.gov/stations/KPNS",
+                    "https://api.weather.gov/stations/KPQL"
+                ],
+                "radarStation": "MOB"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ053",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ053",
+                "@type": "wx:Zone",
+                "id": "ALZ053",
+                "type": "public",
+                "name": "Clarke",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMOB",
+                    "https://api.weather.gov/stations/KMEI"
+                ],
+                "radarStation": "MOB"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ054",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ054",
+                "@type": "wx:Zone",
+                "id": "ALZ054",
+                "type": "public",
+                "name": "Wilcox",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KDTS",
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEI",
+                    "https://api.weather.gov/stations/KMOB",
+                    "https://api.weather.gov/stations/KPNS"
+                ],
+                "radarStation": "BMX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ055",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ055",
+                "@type": "wx:Zone",
+                "id": "ALZ055",
+                "type": "public",
+                "name": "Monroe",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBIX",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEI",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KMOB",
+                    "https://api.weather.gov/stations/KPIB",
+                    "https://api.weather.gov/stations/KPNS",
+                    "https://api.weather.gov/stations/KTOI"
+                ],
+                "radarStation": "MOB"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ056",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ056",
+                "@type": "wx:Zone",
+                "id": "ALZ056",
+                "type": "public",
+                "name": "Conecuh",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/K79J",
+                    "https://api.weather.gov/stations/KBFM",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KCEW",
+                    "https://api.weather.gov/stations/KDTS",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEI",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KNSE",
+                    "https://api.weather.gov/stations/KPNS"
+                ],
+                "radarStation": "MOB"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ057",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ057",
+                "@type": "wx:Zone",
+                "id": "ALZ057",
+                "type": "public",
+                "name": "Butler",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KBFM",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBIX",
+                    "https://api.weather.gov/stations/KCEW",
+                    "https://api.weather.gov/stations/KDTS",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMEI",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KPNS",
+                    "https://api.weather.gov/stations/KTOI"
+                ],
+                "radarStation": "MXX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ058",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ058",
+                "@type": "wx:Zone",
+                "id": "ALZ058",
+                "type": "public",
+                "name": "Crenshaw",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KTOI",
+                    "https://api.weather.gov/stations/K79J",
+                    "https://api.weather.gov/stations/KBFM",
+                    "https://api.weather.gov/stations/KBIX",
+                    "https://api.weather.gov/stations/KDHN",
+                    "https://api.weather.gov/stations/KDTS",
+                    "https://api.weather.gov/stations/KMEI",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KPFN",
+                    "https://api.weather.gov/stations/KPNS"
+                ],
+                "radarStation": "EOX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ059",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ059",
+                "@type": "wx:Zone",
+                "id": "ALZ059",
+                "type": "public",
+                "name": "Escambia",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KBFM",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBIX",
+                    "https://api.weather.gov/stations/KCEW",
+                    "https://api.weather.gov/stations/KDTS",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KNSE",
+                    "https://api.weather.gov/stations/KPFN",
+                    "https://api.weather.gov/stations/KPNS"
+                ],
+                "radarStation": "MOB"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ060",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ060",
+                "@type": "wx:Zone",
+                "id": "ALZ060",
+                "type": "public",
+                "name": "Covington",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KCEW",
+                    "https://api.weather.gov/stations/K79J",
+                    "https://api.weather.gov/stations/KBFM",
+                    "https://api.weather.gov/stations/KBIX",
+                    "https://api.weather.gov/stations/KDHN",
+                    "https://api.weather.gov/stations/KDTS",
+                    "https://api.weather.gov/stations/KMEI",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KPFN",
+                    "https://api.weather.gov/stations/KTOI"
+                ],
+                "radarStation": "EVX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ065",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ065",
+                "@type": "wx:Zone",
+                "id": "ALZ065",
+                "type": "public",
+                "name": "Coffee",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/TAE",
+                "gridIdentifier": "TAE",
+                "awipsLocationIdentifier": "TAE",
+                "cwa": [
+                    "TAE"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/TAE"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KOZR",
+                    "https://api.weather.gov/stations/K79J",
+                    "https://api.weather.gov/stations/KBIJ",
+                    "https://api.weather.gov/stations/KDHN",
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KHEY",
+                    "https://api.weather.gov/stations/KLOR",
+                    "https://api.weather.gov/stations/KMAI",
+                    "https://api.weather.gov/stations/KTOI"
+                ],
+                "radarStation": "EOX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ066",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ066",
+                "@type": "wx:Zone",
+                "id": "ALZ066",
+                "type": "public",
+                "name": "Dale",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/TAE",
+                "gridIdentifier": "TAE",
+                "awipsLocationIdentifier": "TAE",
+                "cwa": [
+                    "TAE"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/TAE"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KOZR",
+                    "https://api.weather.gov/stations/K79J",
+                    "https://api.weather.gov/stations/KBGE",
+                    "https://api.weather.gov/stations/KBIJ",
+                    "https://api.weather.gov/stations/KDHN",
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KHEY",
+                    "https://api.weather.gov/stations/KLOR",
+                    "https://api.weather.gov/stations/KMAI",
+                    "https://api.weather.gov/stations/KTOI"
+                ],
+                "radarStation": "EOX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ067",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ067",
+                "@type": "wx:Zone",
+                "id": "ALZ067",
+                "type": "public",
+                "name": "Henry",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/TAE",
+                "gridIdentifier": "TAE",
+                "awipsLocationIdentifier": "TAE",
+                "cwa": [
+                    "TAE"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/TAE"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KDHN",
+                    "https://api.weather.gov/stations/K79J",
+                    "https://api.weather.gov/stations/KABY",
+                    "https://api.weather.gov/stations/KBGE",
+                    "https://api.weather.gov/stations/KBIJ",
+                    "https://api.weather.gov/stations/KHEY",
+                    "https://api.weather.gov/stations/KLOR",
+                    "https://api.weather.gov/stations/KMAI",
+                    "https://api.weather.gov/stations/KOZR",
+                    "https://api.weather.gov/stations/KTOI"
+                ],
+                "radarStation": "EOX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ068",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ068",
+                "@type": "wx:Zone",
+                "id": "ALZ068",
+                "type": "public",
+                "name": "Geneva",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/TAE",
+                "gridIdentifier": "TAE",
+                "awipsLocationIdentifier": "TAE",
+                "cwa": [
+                    "TAE"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/TAE"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KDHN",
+                    "https://api.weather.gov/stations/K79J",
+                    "https://api.weather.gov/stations/KBGE",
+                    "https://api.weather.gov/stations/KBIJ",
+                    "https://api.weather.gov/stations/KCEW",
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KHEY",
+                    "https://api.weather.gov/stations/KLOR",
+                    "https://api.weather.gov/stations/KMAI",
+                    "https://api.weather.gov/stations/KOZR",
+                    "https://api.weather.gov/stations/KTLH"
+                ],
+                "radarStation": "EOX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ069",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ069",
+                "@type": "wx:Zone",
+                "id": "ALZ069",
+                "type": "public",
+                "name": "Houston",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/TAE",
+                "gridIdentifier": "TAE",
+                "awipsLocationIdentifier": "TAE",
+                "cwa": [
+                    "TAE"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/TAE"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KDHN",
+                    "https://api.weather.gov/stations/K79J",
+                    "https://api.weather.gov/stations/KABY",
+                    "https://api.weather.gov/stations/KBGE",
+                    "https://api.weather.gov/stations/KBIJ",
+                    "https://api.weather.gov/stations/KHEY",
+                    "https://api.weather.gov/stations/KLOR",
+                    "https://api.weather.gov/stations/KMAI",
+                    "https://api.weather.gov/stations/KOZR",
+                    "https://api.weather.gov/stations/KTLH",
+                    "https://api.weather.gov/stations/KTOI"
+                ],
+                "radarStation": "EOX"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ261",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ261",
+                "@type": "wx:Zone",
+                "id": "ALZ261",
+                "type": "public",
+                "name": "Mobile Inland",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMOB",
+                    "https://api.weather.gov/stations/KBFM",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBIX",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KNSE",
+                    "https://api.weather.gov/stations/KPIB",
+                    "https://api.weather.gov/stations/KPNS",
+                    "https://api.weather.gov/stations/KPQL"
+                ],
+                "radarStation": "MOB"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ262",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ262",
+                "@type": "wx:Zone",
+                "id": "ALZ262",
+                "type": "public",
+                "name": "Baldwin Inland",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMOB",
+                    "https://api.weather.gov/stations/KBFM",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBIX",
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KPIB",
+                    "https://api.weather.gov/stations/KPNS",
+                    "https://api.weather.gov/stations/KPQL"
+                ],
+                "radarStation": "MOB"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ263",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ263",
+                "@type": "wx:Zone",
+                "id": "ALZ263",
+                "type": "public",
+                "name": "Mobile Central",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMOB",
+                    "https://api.weather.gov/stations/KBFM",
+                    "https://api.weather.gov/stations/KDTS",
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KNPA",
+                    "https://api.weather.gov/stations/KPNS",
+                    "https://api.weather.gov/stations/KPQL"
+                ],
+                "radarStation": "MOB"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ264",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ264",
+                "@type": "wx:Zone",
+                "id": "ALZ264",
+                "type": "public",
+                "name": "Baldwin Central",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KBFM",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBIX",
+                    "https://api.weather.gov/stations/KDTS",
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KMOB",
+                    "https://api.weather.gov/stations/KNPA",
+                    "https://api.weather.gov/stations/KPNS",
+                    "https://api.weather.gov/stations/KPQL"
+                ],
+                "radarStation": "MOB"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ265",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ265",
+                "@type": "wx:Zone",
+                "id": "ALZ265",
+                "type": "public",
+                "name": "Mobile Coastal",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KMOB",
+                    "https://api.weather.gov/stations/KBFM",
+                    "https://api.weather.gov/stations/KDTS",
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KNPA",
+                    "https://api.weather.gov/stations/KPNS",
+                    "https://api.weather.gov/stations/KPQL"
+                ],
+                "radarStation": "MOB"
+            }
+        },
+        {
+            "id": "https://api.weather.gov/zones/forecast/ALZ266",
+            "type": "Feature",
+            "geometry": null,
+            "properties": {
+                "@id": "https://api.weather.gov/zones/forecast/ALZ266",
+                "@type": "wx:Zone",
+                "id": "ALZ266",
+                "type": "public",
+                "name": "Baldwin Coastal",
+                "effectiveDate": "2026-04-16T18:00:00+00:00",
+                "expirationDate": "2200-01-01T00:00:00+00:00",
+                "state": "AL",
+                "forecastOffice": "https://api.weather.gov/offices/MOB",
+                "gridIdentifier": "MOB",
+                "awipsLocationIdentifier": "MOB",
+                "cwa": [
+                    "MOB"
+                ],
+                "forecastOffices": [
+                    "https://api.weather.gov/offices/MOB"
+                ],
+                "timeZone": [
+                    "America/Chicago"
+                ],
+                "observationStations": [
+                    "https://api.weather.gov/stations/KBFM",
+                    "https://api.weather.gov/stations/KBHM",
+                    "https://api.weather.gov/stations/KBIX",
+                    "https://api.weather.gov/stations/KDTS",
+                    "https://api.weather.gov/stations/KGZH",
+                    "https://api.weather.gov/stations/KJAN",
+                    "https://api.weather.gov/stations/KMGM",
+                    "https://api.weather.gov/stations/KMOB",
+                    "https://api.weather.gov/stations/KNPA",
+                    "https://api.weather.gov/stations/KPNS",
+                    "https://api.weather.gov/stations/KPQL"
+                ],
+                "radarStation": "MOB"
+            }
+        }
+    ]
+}

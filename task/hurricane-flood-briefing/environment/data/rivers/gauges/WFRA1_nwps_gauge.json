@@ -1,0 +1,121 @@
+{
+ "lid": "WFRA1",
+ "usgsId": "",
+ "reachId": "18073458",
+ "name": "Tide Gauge at West Fowl River Bridge (IN MHHW)",
+ "description": "",
+ "rfc": {
+  "abbreviation": "LMRFC",
+  "name": "Lower Mississippi River Forecast Center"
+ },
+ "wfo": {
+  "abbreviation": "MOB",
+  "name": "Mobile"
+ },
+ "state": {
+  "abbreviation": "AL",
+  "name": "Alabama"
+ },
+ "county": "Mobile",
+ "timeZone": "CST6CDT",
+ "latitude": 30.37664,
+ "longitude": -88.15856,
+ "pedts": {
+  "observed": "HCIRG",
+  "forecast": "HCIFV"
+ },
+ "flood": {
+  "stageUnits": "ft",
+  "flowUnits": "cfs",
+  "categories": {
+   "major": {
+    "stage": 6,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": 3,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": 2,
+    "flow": -9999
+   },
+   "action": {
+    "stage": -9999,
+    "flow": -9999
+   }
+  },
+  "crests": {
+   "historic": [],
+   "recent": []
+  },
+  "lowWaters": {
+   "historic": []
+  },
+  "impacts": [
+   {
+    "stage": 5,
+    "statement": "Shell Belt and Coden Belt Roads are closed. Some homes on the north side of Shell belt and Coden Belt Roads experience several feet of water inside structures."
+   },
+   {
+    "stage": 4,
+    "statement": "4.0 - 5.0 ft - Water begins to encroach into yards and under elevated houses on the north side of Shell Belt Road. By around 5 ft, there could be as much as 3 ft of water in these areas. Shell Belt and Coden Belt Roads are closed. Water begins to cover portions of Heron Bay Loop Road along Heron Bayou and may limit travel. A few businesses on the waterfront in Bayou La Batre can have up to 6 inches of water inside."
+   },
+   {
+    "stage": 2.5,
+    "statement": "Most portions of Shell Belt and Coden Belt Roads are closed due to flooding. Water begins to impact portions of Bienville Blvd on the west end of Dauphin Island. Flooding begins to impact portions of the Causeway leading to Dauphin Island and can result in limited travel. "
+   },
+   {
+    "stage": 2,
+    "statement": "2.0 - 2.5 ft - Water begins to cover significant portions of Shell Belt and Coden Belt Roads. Roads may have debris on them. Limited travel and some closer can be expected as the water rises."
+   },
+   {
+    "stage": 1,
+    "statement": "1.0 - 2.0 ft - Some splash-up onto Shell Belt and Coden Belt Roads can occur. Roads usually remain open."
+   }
+  ]
+ },
+ "dataAttribution": [],
+ "impactsLowWaters": [],
+ "normalThreshold": {
+  "value": 0,
+  "units": "ft"
+ },
+ "hydronotes": [
+  {
+   "statement": "Water levels are referenced to the Mean Higher High Water (MHHW) Datum. This datum can be used to approximate sea water inundation of normally dry ground near the coast. For specific impacts, please refer to the statements on this page.",
+   "effective": "0101",
+   "expiration": "1231"
+  }
+ ],
+ "datums": {
+  "vertical": {
+   "value": []
+  },
+  "horizontal": {
+   "value": []
+  },
+  "notes": {
+   "value": []
+  }
+ },
+ "inundation": {
+  "enabled": false,
+  "url": "",
+  "zeroDatum": null,
+  "downloads": null,
+  "siteSpecificInfo": "",
+  "dataAttribution": []
+ },
+ "upstreamLid": "",
+ "downstreamLid": "",
+ "inService": {
+  "enabled": true,
+  "message": ""
+ },
+ "lowThreshold": {
+  "units": "ft",
+  "value": -1.69
+ },
+ "forecastReliability": "Forecasts are issued routinely year-round."
+}
